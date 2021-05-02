@@ -1,5 +1,5 @@
 # Presentation <h1 align="center">Hi 👋, I'm Diego Boscaglia</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center"> Un apasionado desarrollador Front / Back end de Argentina
 
 - 🔭 I’m currently working on **.NET / ASP**
 
