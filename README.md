@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **.NET / ASP**
 
-- 🌱 I’m currently learning **Blockchain Ethereum Solidity**
+- 🌱 I’m currently learning nuevas tecnologias
 
-- 👯 I’m looking to collaborate on [Alkemy](http://www.alkemy.org/)
+- 👯 I’m looking to collaborate on www.consultpro.com.ar
 
-- 💬 Ask me about **Desarrollo web, sistemas, finanzas, DeFi**
+- 💬 Ask me about **Desarrollo web, sistemas, finanzas**
 
 - 📫 How to reach me **drboscaglia@gmail.com**
 
